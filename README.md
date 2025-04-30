@@ -1,0 +1,37 @@
+
+# 🎙️ Speech-Verse
+
+**Speech-Verse** is a modern, browser-based tool that transcribes spoken audio into accurate, readable text — all powered by machine learning and optimized for speed, privacy, and ease of use.
+
+Whether it's an audio file, a direct URL, or live speech via your microphone, Speech-Verse seamlessly converts it into written words right in your browser — **no server, no upload, and no data leaving your device**.
+
+---
+
+## 🚀 Key Features
+
+- 🎧 **Live Microphone Recording** – Speak in real time and see your words appear as you talk.
+- 📂 **Upload Audio Files** – Drop in MP3, WAV, or other formats and get instant transcriptions.
+- 🔗 **Transcribe from URLs** – Paste a direct audio link and get the content in text form.
+- 💡 **ML-Powered Accuracy** – Speech-Verse uses on-device AI models for fast, reliable transcription.
+- 🛡️ **Fully Private** – All processing happens locally in your browser. Your audio never leaves your device.
+- 📱 **Mobile Responsive** – Built with modern design principles, works smoothly on any screen size.
+
+---
+
+## 🧪 How It Works
+
+1. Choose your input: **record live**, **upload a file**, or **paste a URL**.
+2. The built-in AI model processes the audio.
+3. Watch your transcript appear instantly in the interface.
+
+No internet processing. No sign-up. Just transcription, simplified.
+
+---
+
+## 💻 Getting Started
+
+```bash
+git clone https://github.com/kartiksahu82/Speech-Verse.git
+cd Speech-Verse
+npm install
+npm run dev
